@@ -1,4 +1,4 @@
-# docker-cli
+# docker-aws-cli
 
 Creates a docker container where you can run AWS python code (either
 cli or python).
